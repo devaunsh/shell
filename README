@@ -1,0 +1,6 @@
+Features that work:
+	everything from testall
+	read-line.c (up,escape,backspace,enter)
+
+extra features:
+	got rid of file descriptor leakages
